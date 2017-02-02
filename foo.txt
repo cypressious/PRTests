@@ -1,3 +1,8 @@
+<<<<<<< .mine
+Hallo
+Kirill ist abgefahren
+=======
 Hallo, Busliniensuche!
 Kirill ist ziemlich cool
+>>>>>>> .theirs
 Wir testen Pull Requests
