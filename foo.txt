@@ -1,3 +1,3 @@
-Hallo, Busliniensuche
+Hallo, Busliniensuche!
 Kirill ist ziemlich cool
 Wir testen Pull Requests
